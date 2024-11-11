@@ -12,8 +12,8 @@ To get started, follow the steps below:
 1. Clone this repo & install dependencies
 
 ```
-git clone https://github.com/bitcryptodev/Frogverse
-cd Frogverse
+git clone https://github.com/bitcryptodev/Frogverse_on_Linea
+cd Frogverse_on_Linea
 yarn install
 ```
 
